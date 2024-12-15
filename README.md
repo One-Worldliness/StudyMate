@@ -6,7 +6,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mintahandrews/studymate?style=social)](https://github.com/mintahandrews/studymate)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-![StudyMate Preview](Preview/previewvideo.mp4)
+![StudyMate Preview](StudyMatePreview.png)
 
 ## ✨ Features
 
