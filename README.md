@@ -1,65 +1,32 @@
-# StudyMate 📚
+# 📚 StudyMate - Your AI-Powered Study Companion
 
-A modern, feature-rich study management application built with React and TypeScript. StudyMate helps students organize their studies, manage tasks, track progress, and maintain productive study sessions.
+> Transform your study sessions with intelligent task management, real-time progress tracking, and AI-powered learning assistance.
 
-![StudyMate Logo](public/favicon.ico)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://studymatesite.netlify.app)
+[![GitHub Stars](https://img.shields.io/github/stars/mintahandrews/studymate?style=social)](https://github.com/mintahandrews/studymate)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+![StudyMate Preview](preview.gif)
 
 ## ✨ Features
 
-### 📋 Task Management
+- 🤖 **AI Study Assistant** - Get instant help with your study materials
+- ⏱️ **Smart Study Timer** - Track your study sessions with Pomodoro technique
+- 📊 **Progress Analytics** - Visualize your study habits and improvements
+- 📝 **Task Management** - Organize your assignments and deadlines
+- 📚 **Subject Tracking** - Monitor progress across different subjects
+- 🎯 **Study Goals** - Set and achieve your study targets
 
-- Create, edit, and delete tasks
-- Set priorities and due dates
-- Organize tasks by subjects
-- Bulk actions (select multiple tasks)
-- Undo deleted tasks
-- Filter and sort tasks
+## 🚀 Key Technologies
 
-### 📚 Subject Management
+- React 18 with TypeScript
+- Google's Gemini AI API
+- Supabase for Backend
+- TailwindCSS for Styling
+- PDF.js & Mammoth for Document Processing
+- Web Speech API for Voice Input
 
-- Create and manage study subjects
-- Color-code subjects
-- Set weekly study goals
-- Track study time per subject
-- Bulk delete with undo functionality
-
-### ⏱️ Study Timer Features
-
-- Pomodoro Timer
-  - Customizable work/break durations
-  - Long break after configurable sessions
-  - Sound notifications
-  - Browser notifications
-- Simple Study Timer
-  - Track continuous study sessions
-  - Sound notifications
-  - Session statistics
-
-### 🤖 AI Assistant
-
-- Get help with studying
-- Generate study materials
-- Answer questions
-- Powered by Google's Generative AI
-
-### 📊 Progress Tracking
-
-- Study streaks
-- Weekly goals
-- Subject-wise progress
-- Study session history
-
-### 🎯 Additional Features
-
-- Dark mode support
-- Responsive design
-- Keyboard shortcuts
-- Toast notifications
-- Sound effects
-- Browser notifications
-- Local storage persistence
-
-## 🚀 Getting Started
+## 🛠️ Quick Start
 
 ### Prerequisites
 
@@ -72,7 +39,7 @@ A modern, feature-rich study management application built with React and TypeScr
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/studymate.git
+git clone https://github.com/mintahandrews/studymate.git
 cd studymate
 ```
 
@@ -223,4 +190,4 @@ Developed by [codemintah](https://github.com/mintahandrews)
 
 ---
 
-Made with ❤️ for students everywhere | CodeMintah
+Made with ❤️ for students everywhere
