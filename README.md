@@ -9,6 +9,7 @@
 ![StudyMate Preview](StudyMatePreview.png)
 
 ## ✨ Features
+<meta name="google-site-verification" content="zjjca77NXRpOYbXCWvNwnSw7gh8PDbtsduHt-kT0e7k" />
 
 - 🤖 **AI Study Assistant** - Get instant help with your study materials
 - ⏱️ **Smart Study Timer** - Track your study sessions with Pomodoro technique
